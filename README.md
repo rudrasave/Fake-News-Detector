@@ -33,12 +33,6 @@ A machine learning–powered web application that predicts whether a news headli
 - Easily integrable with any frontend (Lovable, React, Streamlit)
 
 ---
-
-## 🏗️ System Architecture
-
-```
-User → Frontend → API → Preprocess → ML Pipeline → Prediction → Output
-```
 ## 🏗️ System Architecture
 
 ![SmartEye System Architecture](./Figure%203.3%20Functional%20Flow%20Diagram%20of%20SmartEye%20System%20-%20visual%20selection.png)
