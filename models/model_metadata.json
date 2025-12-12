@@ -1,0 +1,15 @@
+{
+  "saved_at": "2025-12-12T14:00:26.045378+00:00",
+  "best_params": {
+    "clf": "LogisticRegression",
+    "clf__C": 1.0,
+    "clf__class_weight": "balanced",
+    "tfidf__max_features": 10000,
+    "tfidf__ngram_range": [
+      1,
+      2
+    ]
+  },
+  "cv_best_score": 0.9428241227443326,
+  "model_name": "best_pipeline.joblib"
+}
