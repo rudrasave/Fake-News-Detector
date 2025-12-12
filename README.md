@@ -35,7 +35,7 @@ A machine learning–powered web application that predicts whether a news headli
 ---
 ## 🏗️ System Architecture
 
-![SmartEye System Architecture](./Figure%203.3%20System%Architecture.png)
+![SmartEye System Architecture](./System%20Architecture.png)
 
 ---
 
